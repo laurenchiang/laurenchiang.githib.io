@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Post"
 author: Lauren
-categories: [ Jekyll, tutorial ]
+categories: [ First post ]
 image: assets/images/16.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
