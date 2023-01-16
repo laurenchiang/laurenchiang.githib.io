@@ -2,8 +2,8 @@
 name: "Lauren Chiang"
 title: "Lauren Chiang"
 description: "Berkeley '26"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/whitelogo.png'
+favicon: 'assets/images/whitelogo.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
