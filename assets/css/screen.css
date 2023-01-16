@@ -429,12 +429,12 @@ blockquote {
         border-radius: 3px !Important;
     }
 
-    .alertbar input[type="email"] {
+    /* .alertbar input[type="email"] {
         margin-right: 0px !Important;
         display: block;
         border-right: 1px solid #ddd !Important;
         margin-bottom: 10px;
-    }
+    } */
 
     .jumbotron {
         margin-bottom: 0;
@@ -534,7 +534,7 @@ ul.tags li a:hover {
     display: inline-block;
 } */
 
-.btn.subscribe {
+/* .btn.subscribe {
     background-color: #1C9963;
     border-color: #1C9963;
     color: rgba(255, 255, 255, 1);
@@ -544,7 +544,7 @@ ul.tags li a:hover {
     margin-left: 10px;
     font-weight: 600;
     text-transform: uppercase;
-}
+} */
 /* 
 .post-top-meta .btn.follow {
     margin-left: 5px;
@@ -567,7 +567,7 @@ ul.tags li a:hover {
     display: inline-block;
 }
 
-.alertbar input[type="email"] {
+/* .alertbar input[type="email"] {
     font-size: 0.85rem;
     padding: 3px 5px 3px 10px;
     border-top-left-radius: 3px;
@@ -578,7 +578,7 @@ ul.tags li a:hover {
     height: 34px;
     letter-spacing: 0.5px;
     margin-left: 5px;
-}
+} */
 
 .alertbar input[type="submit"] {
     background-color: #1C9963;
