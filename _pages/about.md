@@ -2,13 +2,12 @@
 layout: page
 title: About Me
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>My bio</p>
+<p>I'm an undergraduate student at UC Berkeley graduating in 2026. I'm majoring in Genetics and Plant Biology and minoring in Bioengineering and am pursuing an MD degree after graduating UC Berkeley. To contact me, connect and message me on <a href="https://www.linkedin.com/in/laurenchiang/">linkedin</a>.</p>
 
 
 
