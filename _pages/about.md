@@ -7,7 +7,10 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>I'm an undergraduate student at UC Berkeley graduating in 2026. I'm majoring in Genetics and Plant Biology and minoring in Bioengineering and am pursuing an MD degree after graduating UC Berkeley. To contact me, connect and message me on <a href="https://www.linkedin.com/in/laurenchiang/">linkedin</a>.</p>
+<p>I'm an undergraduate student at UC Berkeley graduating in 2026. I'm majoring in Genetics and Plant Biology and minoring in Bioengineering and am pursuing an MD degree after graduating UC Berkeley. To contact me or see my resume, connect and message me on <a href="https://www.linkedin.com/in/laurenchiang/">LinkedIn</a> or follow me on <a href="https://www.instagram.com/lauren.t.chiang/">Instagram</a>.
+
+In my freetime, I enjoy reading and writing, thus, I created my personal website as a way to write about my favorite subject—science and medicine.
+</p>
 
 
 
