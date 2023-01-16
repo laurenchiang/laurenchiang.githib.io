@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   Lauren:
     name: Lauren
-    display_name: Lauren
+    display_name: Lauren Chiang
     avatar: 'assets/images/my-face-square.png'
     email: laurentchiang@berkeley.edu
     description: "UC Berkeley, Genetics and Plant Biology BS."

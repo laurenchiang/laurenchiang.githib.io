@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plant Disease Detection: A Technological Revolution"
-author: Lauren Chiang
+author: Lauren
 categories: [ Plant Biology ]
 image: assets/images/plant-disease-detection.jpg
 featured: true
@@ -19,23 +19,24 @@ Though using a molecular approach is applicable in contexts regarding research a
 
 
 Works Cited:
-    Albattah W, Javed A, Nawaz M, Masood M, Albahli S. Artificial Intelligence-Based Drone 
-    System for Multiclass Plant Disease Detection Using an Improved Efficient Convolutional Neural Network. Front Plant Sci. 2022 Jun 9;13:808380. doi: 10.3389/fpls.2022.808380. PMID: 35755664; PMCID: PMC9218756.
 
-    Chalupowicz, L., Dombrovsky, A., Gaba, V., Luria, N., Reuven, M., Beerman, A., Lachman, O., Dror, O., Nissan, G. and Manulis-Sasson, S. (2019), Diagnosis of plant diseases using the Nanopore sequencing platform. Plant Pathol, 68: 229-238. https://doi.org/10.1111/ppa.12957
+Albattah W, Javed A, Nawaz M, Masood M, Albahli S. Artificial Intelligence-Based Drone 
+System for Multiclass Plant Disease Detection Using an Improved Efficient Convolutional Neural Network. Front Plant Sci. 2022 Jun 9;13:808380. doi: 10.3389/fpls.2022.808380. PMID: 35755664; PMCID: PMC9218756.
 
-    Domingues, T.; Brandão, T.; Ferreira, J.C. Machine Learning for Detection and Prediction of Crop Diseases and Pests: A Comprehensive Survey. Agriculture 2022, 12, 1350. https://doi.org/10.3390/agriculture12091350
+Chalupowicz, L., Dombrovsky, A., Gaba, V., Luria, N., Reuven, M., Beerman, A., Lachman, O., Dror, O., Nissan, G. and Manulis-Sasson, S. (2019), Diagnosis of plant diseases using the Nanopore sequencing platform. Plant Pathol, 68: 229-238. https://doi.org/10.1111/ppa.12957
 
-    Grosdidier, M., Aguayo, J., Marçais, B. and Ioos, R. (2017), Detection of plant pathogens using real-time PCR: how reliable are late Ct values?. Plant Pathol, 66: 359-367. https://doi.org/10.1111/ppa.12591
+Domingues, T.; Brandão, T.; Ferreira, J.C. Machine Learning for Detection and Prediction of Crop Diseases and Pests: A Comprehensive Survey. Agriculture 2022, 12, 1350. https://doi.org/10.3390/agriculture12091350
 
-    López MM, Llop P, Olmos A, Marco-Noales E, Cambra M, Bertolini E. Are molecular tools solving the challenges posed by detection of plant pathogenic bacteria and viruses? Curr Issues Mol Biol. 2009;11(1):13-46. Epub 2008 Jun 25. PMID: 18577779.
+Grosdidier, M., Aguayo, J., Marçais, B. and Ioos, R. (2017), Detection of plant pathogens using real-time PCR: how reliable are late Ct values?. Plant Pathol, 66: 359-367. https://doi.org/10.1111/ppa.12591
 
-    Patil, R.R., Kumar, S., Rani, R. (2022). Comparison of artificial intelligence algorithms in plant disease prediction. Revue d'Intelligence Artificielle, Vol. 36, No. 2, pp. 185-193. https://doi.org/10.18280/ria.360202
+López MM, Llop P, Olmos A, Marco-Noales E, Cambra M, Bertolini E. Are molecular tools solving the challenges posed by detection of plant pathogenic bacteria and viruses? Curr Issues Mol Biol. 2009;11(1):13-46. Epub 2008 Jun 25. PMID: 18577779.
 
-    P. Karpyshev, V. Ilin, I. Kalinov, A. Petrovsky and D. Tsetserukou, "Autonomous Mobile Robot for Apple Plant Disease Detection based on CNN and Multi-Spectral Vision System," 2021 IEEE/SICE International Symposium on System Integration (SII), 2021, pp. 157-162, doi: 10.1109/IEEECONF49454.2021.9382649.
+Patil, R.R., Kumar, S., Rani, R. (2022). Comparison of artificial intelligence algorithms in plant disease prediction. Revue d'Intelligence Artificielle, Vol. 36, No. 2, pp. 185-193. https://doi.org/10.18280/ria.360202
 
-    Quinn, John Alexander, Kevin Leyton-Brown, and Ernest Mwebaze. "Modeling and monitoring crop disease in developing countries." Twenty-Fifth AAAI Conference on Artificial Intelligence. 2011.
-    Saunders, K., Bedford, I., Yahara, T. et al. The earliest recorded plant virus disease. Nature 422, 831 (2003). https://doi.org/10.1038/422831a
+P. Karpyshev, V. Ilin, I. Kalinov, A. Petrovsky and D. Tsetserukou, "Autonomous Mobile Robot for Apple Plant Disease Detection based on CNN and Multi-Spectral Vision System," 2021 IEEE/SICE International Symposium on System Integration (SII), 2021, pp. 157-162, doi: 10.1109/IEEECONF49454.2021.9382649.
 
-    S. Ramesh et al., "Plant Disease Detection Using Machine Learning," 2018 International Conference on Design Innovations for 3Cs Compute Communicate Control (ICDI3C), 2018, pp. 41-45, doi: 10.1109/ICDI3C.2018.00017.
+Quinn, John Alexander, Kevin Leyton-Brown, and Ernest Mwebaze. "Modeling and monitoring crop disease in developing countries." Twenty-Fifth AAAI Conference on Artificial Intelligence. 2011.
+Saunders, K., Bedford, I., Yahara, T. et al. The earliest recorded plant virus disease. Nature 422, 831 (2003). https://doi.org/10.1038/422831a
+
+S. Ramesh et al., "Plant Disease Detection Using Machine Learning," 2018 International Conference on Design Innovations for 3Cs Compute Communicate Control (ICDI3C), 2018, pp. 41-45, doi: 10.1109/ICDI3C.2018.00017.
 
